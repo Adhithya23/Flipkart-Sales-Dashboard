@@ -22,14 +22,14 @@ The data is sourced from kaggle
 
 Flipkart Sales dataset. It includes details on:
 
-Sales Transactions: Information on each sale, including the amount, profit, and product details.<br>
-Categories: The types of products sold, such as Electronics, Furniture, and Clothing.<br>
-Payment Modes: The methods used for payment, including Credit Card, UPI, and COD (Cash on Delivery).<br>
-Order Dates: The dates on which orders were placed, allowing for time-based analysis.<br>
+**Sales Transactions:** Information on each sale, including the amount, profit, and product details.<br>
+**Categories:** The types of products sold, such as Electronics, Furniture, and Clothing.<br>
+**Payment Modes:** The methods used for payment, including Credit Card, UPI, and COD (Cash on Delivery).<br>
+**Order Dates:** The dates on which orders were placed, allowing for time-based analysis.<br>
 
 ###  Features / Highlights :
 
-Business Problem: The e-commerce industry, particularly platforms like Flipkart, generates vast amounts of sales data daily. Without a structured way to visualize this data, it's challenging for businesses to answer critical questions such as:
+**Business Problem:** The e-commerce industry, particularly platforms like Flipkart, generates vast amounts of sales data daily. Without a structured way to visualize this data, it's challenging for businesses to answer critical questions such as:
 
 Which products are the most profitable?<br>
 What are the most popular payment methods?<br>
@@ -47,28 +47,28 @@ Uncover trends and patterns in monthly sales and profit.<br>
 ###  Walkthrough of Key Visuals:
 
 
-Orders by Payment Mode (Donut Chart): This chart shows the distribution of orders based on the payment method used, with COD (Cash on Delivery) accounting for the largest share at 46% and UPI for 22%.
+* **Orders by Payment Mode (Donut Chart):** This chart shows the distribution of orders based on the payment method used, with COD (Cash on Delivery) accounting for the largest share at 46% and UPI for 22%.
 
-Sum of Profit by Month (Bar Chart): This visual displays the monthly profit performance. The data shows profit peaked in January, March, and December, while losses were incurred from May to September, with the biggest loss in May.
+* **Sum of Profit by Month (Bar Chart):** This visual displays the monthly profit performance. The data shows profit peaked in January, March, and December, while losses were incurred from May to September, with the biggest loss in May.
 
-Categories by Quantity (Pie Chart): This chart highlights the most sold product categories by quantity. 
+* **Categories by Quantity (Pie Chart):** This chart highlights the most sold product categories by quantity. 
 
-Clothing is the top category, making up 63% of total sales, followed by Electronics (21%) and Furniture (17%).
-
-
-Top 5 Profitable Sub-Category (Bar Chart): This chart ranks the top five most profitable sub-categories, with Printers at the top with a profit of $8.6K and Bookcases following at $6.5K.
+* Clothing is the top category, making up 63% of total sales, followed by Electronics (21%) and Furniture (17%).
 
 
-Order by Day (Pie Chart): This chart shows the distribution of orders by day of the week, with Friday accounting for the largest share at 19%, followed by Monday and Thursday at 15% and 17% respectively.
+* **Top 5 Profitable Sub-Category (Bar Chart):** This chart ranks the top five most profitable sub-categories, with Printers at the top with a profit of $8.6K and Bookcases following at $6.5K.
 
 
-Monthly Distribution of Amount (Line Chart): This visual tracks the total sales amount over the year, revealing a large spike in sales in April and a smaller peak in December.
+* **Order by Day (Pie Chart):** This chart shows the distribution of orders by day of the week, with Friday accounting for the largest share at 19%, followed by Monday and Thursday at 15% and 17% respectively.
 
 
-Amount by Category (Bar Chart): This chart provides a breakdown of the total sales amount for the top three categories: Electronics ($0.17M), Clothing ($0.14M), and Furniture ($0.13M).
+* **Monthly Distribution of Amount (Line Chart):** This visual tracks the total sales amount over the year, revealing a large spike in sales in April and a smaller peak in December.
 
 
-Geo Distribution (Map): A map showing the geographical distribution of sales, highlighting key regions in India, Pakistan, and Bangladesh.
+* **Amount by Category (Bar Chart):** This chart provides a breakdown of the total sales amount for the top three categories: Electronics ($0.17M), Clothing ($0.14M), and Furniture ($0.13M).
+
+
+* **Geo Distribution (Map):** A map showing the geographical distribution of sales, highlighting key regions in India, Pakistan, and Bangladesh.
 
 ###  Business Impact & Insights:
 
@@ -83,4 +83,4 @@ Payment Strategy: The Orders by Payment Mode chart highlights the high dependenc
 ###  Screenshot / Demo
 
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/Adhithya23/Amazon-Sales-Report/blob/main/Snapshot%20of%20Dashboard.png)
+Example: ![Dashboard Preview](https://github.com/Adhithya23/Flipkart-Sales-Dashboard/blob/main/Flipkart%20Sales%20Screenshot.png)
